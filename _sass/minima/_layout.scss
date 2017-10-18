@@ -86,6 +86,17 @@
     }
   }
 
+  .page-link-active {
+    color: $text-color;
+    background: rgba(0, 255, 60, 0.19);
+    line-height: $base-line-height;
+
+    // Gaps between nav items, but not on the last one
+    &:not(:last-child) {
+      margin-right: 20px;
+    }
+  }
+
   @include media-query($on-palm) {
     position: absolute;
     top: 9px;
@@ -252,12 +263,12 @@
 }
 
 .post-title {
-  @include relative-font-size(2.625);
+  @include relative-font-size(1.625);
   letter-spacing: -1px;
   line-height: 1;
 
   @include media-query($on-laptop) {
-    @include relative-font-size(2.25);
+    @include relative-font-size(1.625);
   }
 }
 

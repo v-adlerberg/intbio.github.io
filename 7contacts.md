@@ -1,13 +1,22 @@
 ---
 layout: page
-title: Contacts
 menutitle: Contacts
+title: Contacts
 weight: 7
 permalink: /contacts/
 ---
 
-Location
-----
+## Our Location
 
-Russia, Moscow, Leninskie Gory, 1, building 73, 5th floor, rooms 504-507, 539-545
-Laboratory Building B, Moscow State University Campus
+1 Leninskie Gory, building 73 (Laboratory Building B), 5th floor (Department of Bioengineering),
+Moscow State University Campus, Moscow, Russia
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4496.1592142626805!2d37.519236!3d55.704988!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNTXCsDQyJzE3LjEiTiAzN8KwMzEnMDkuMCJF!5e0!3m2!1sen!2sus!4v1508304785705" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+### Access using public transportation
+- from metro station "Universitet" take buses #47, 67, 103, 113, 130, 187, 260, 34 till bus stop "Mendeleevskaya ulitsa"
+
+- from metro station "Lomonosovkii prospect" we are walking distance away
+
+## Mailing address
+
+  Bioengineering Department, Faculty of Biology, Moscow State University,
+  1 Leninskie Gory, building 73, Moscow, 119991 Russia

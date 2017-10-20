@@ -8,7 +8,7 @@ permalink: /contacts/
 
 ## Email/Tel/Fax
 
-info@intbio.org
+[info@intbio.org](mailto:info@intbio.org)
 
 Tel: +7 495 939 23 74
 

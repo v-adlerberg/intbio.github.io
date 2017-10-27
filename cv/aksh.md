@@ -40,6 +40,7 @@ permalink: /team/aksh_cv
 			
 			</td>
 			</tr>
+			<tr><td align="right">GoogleScholar:</td><td><a href="https://goo.gl/6W1QKS">goo.gl/6W1QKS</a></td></tr>
 			<tr><td align="right">Pubmed:</td><td><a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=shaytan+a%5Bauth%5D">Shaytan A</a></td></tr>
 			<tr><td align="right">ORCID:</td><td><a href="http://orcid.org/0000-0003-0312-938X">0000-0003-0312-938X</a></td></tr>
 			<tr><td align="right">ResearcherID:</td><td><a href="http://www.researcherid.com/rid/D-7306-2012">D-7306-2012</a></td></tr>

@@ -1,18 +1,18 @@
 ---
 layout: page
 title: Alexey K. Shaytan
-permalink: /team/aksh_cv
+permalink: /alexey_shaytan
 ---
 
 ##  <b>Dr. Alexey K. Shaytan</b> - Curriculum Vitae
 
-<table>
+<table class="rowu">
 <colgroup>
-<col width="30%" />
-<col width="70%" />
+<col width="20%" />
+<col width="80%" />
 </colgroup>
 <tbody>
-<tr>
+<tr class="rowu">
 	<td markdown="span">
 		<img src="/assets/photo_aksh.jpg" width="200px" />
 	</td>
@@ -26,7 +26,6 @@ permalink: /team/aksh_cv
 			<td>
 			<table>
 			<tr><td align="right">Website:</td><td><a href="http://intbio.org">http://www.intbio.org</a></td></tr>
-			<tr><td align="right">E-mail:</td><td>shaytan_akATmail.bio.msu.ru</td></tr>
 			<tr><td align="right">GitHub:</td><td><a href="https://github.com/molsim">molsim</a></td></tr>
 
 			<tr><td align="right">Social media:</td><td valign="top" align="left">
@@ -56,6 +55,149 @@ permalink: /team/aksh_cv
 		</table>
 	</td>
 </tr>
+<tr class="rowu">
+<td valign="top"><b>CONTACT</b></td>
+<td>
+<table>
+			<tr><td align="right">E-mail:</td><td>shaytan_akATmail.bio.msu.ru</td></tr>
+			<tr><td align="right">Tel:</td><td>+7 495 939 23 74</td></tr>
+			<tr><td align="right">Fax:</td><td>+7 495 939 57 38</td></tr>
+			<tr><td align="right">Skype:</td><td>alexeyshaytan</td></tr>
+			<tr><td align="right">Address:</td><td>Bioengineering Department, Faculty of Biology, Moscow State University, 1 Leninskie Gory, building 73, Moscow, 119991 Russia</td></tr>
+</table>
+</td>
+</tr>
+<tr class="rowu">
+<td valign="top"><b>WORK<br>EXPERIENCE</b></td>
+<td>
+<table>
+			<tr><td align="right">E-mail:</td><td>shaytan_akATmail.bio.msu.ru</td></tr>
+			<tr><td align="right">Tel:</td><td>+7 495 939 23 74</td></tr>
+			<tr><td align="right">Fax:</td><td>+7 495 939 57 38</td></tr>
+			<tr><td align="right">Skype:</td><td>alexeyshaytan</td></tr>
+			<tr><td align="right">Address:</td><td>Bioengineering Department, Faculty of Biology, Moscow State University, 1 Leninskie Gory, building 73, Moscow, 119991 Russia</td></tr>
+</table>
+</td>
+</tr>
+<tr class="rowu">
+<td valign="top"><b>EDUCATION</b></td>
+<td>
+<table>
+			<tr><td align="right">E-mail:</td><td>shaytan_akATmail.bio.msu.ru</td></tr>
+			<tr><td align="right">Tel:</td><td>+7 495 939 23 74</td></tr>
+			<tr><td align="right">Fax:</td><td>+7 495 939 57 38</td></tr>
+			<tr><td align="right">Skype:</td><td>alexeyshaytan</td></tr>
+			<tr><td align="right">Address:</td><td>Bioengineering Department, Faculty of Biology, Moscow State University, 1 Leninskie Gory, building 73, Moscow, 119991 Russia</td></tr>
+</table>
+</td>
+</tr>
+<tr class="rowu">
+<td valign="top"><b>SKILLS</b></td>
+<td>
+<table>
+			<tr><td align="right">E-mail:</td><td>shaytan_akATmail.bio.msu.ru</td></tr>
+			<tr><td align="right">Tel:</td><td>+7 495 939 23 74</td></tr>
+			<tr><td align="right">Fax:</td><td>+7 495 939 57 38</td></tr>
+			<tr><td align="right">Skype:</td><td>alexeyshaytan</td></tr>
+			<tr><td align="right">Address:</td><td>Bioengineering Department, Faculty of Biology, Moscow State University, 1 Leninskie Gory, building 73, Moscow, 119991 Russia</td></tr>
+</table>
+</td>
+</tr>
+<tr class="rowu">
+<td valign="top"><b>AWARDS<br>SCHOLARSHIPS</b></td>
+<td>
+<table>
+			<tr><td align="right">E-mail:</td><td>shaytan_akATmail.bio.msu.ru</td></tr>
+			<tr><td align="right">Tel:</td><td>+7 495 939 23 74</td></tr>
+			<tr><td align="right">Fax:</td><td>+7 495 939 57 38</td></tr>
+			<tr><td align="right">Skype:</td><td>alexeyshaytan</td></tr>
+			<tr><td align="right">Address:</td><td>Bioengineering Department, Faculty of Biology, Moscow State University, 1 Leninskie Gory, building 73, Moscow, 119991 Russia</td></tr>
+</table>
+</td>
+</tr>
+<tr class="rowu">
+<td valign="top"><b>PROFESSIONAL<br>ACTIVITIES</b></td>
+<td>
+<table>
+			<tr><td align="right">E-mail:</td><td>shaytan_akATmail.bio.msu.ru</td></tr>
+			<tr><td align="right">Tel:</td><td>+7 495 939 23 74</td></tr>
+			<tr><td align="right">Fax:</td><td>+7 495 939 57 38</td></tr>
+			<tr><td align="right">Skype:</td><td>alexeyshaytan</td></tr>
+			<tr><td align="right">Address:</td><td>Bioengineering Department, Faculty of Biology, Moscow State University, 1 Leninskie Gory, building 73, Moscow, 119991 Russia</td></tr>
+</table>
+</td>
+</tr>
+<tr class="rowu">
+<td valign="top"><b>STUDENT<br>SUPERVISION</b></td>
+<td>
+<table>
+			<tr><td align="right">E-mail:</td><td>shaytan_akATmail.bio.msu.ru</td></tr>
+			<tr><td align="right">Tel:</td><td>+7 495 939 23 74</td></tr>
+			<tr><td align="right">Fax:</td><td>+7 495 939 57 38</td></tr>
+			<tr><td align="right">Skype:</td><td>alexeyshaytan</td></tr>
+			<tr><td align="right">Address:</td><td>Bioengineering Department, Faculty of Biology, Moscow State University, 1 Leninskie Gory, building 73, Moscow, 119991 Russia</td></tr>
+</table>
+</td>
+</tr>
+<tr class="rowu">
+<td valign="top"><b>GRANTS</b></td>
+<td>
+<table>
+			<tr><td align="right">E-mail:</td><td>shaytan_akATmail.bio.msu.ru</td></tr>
+			<tr><td align="right">Tel:</td><td>+7 495 939 23 74</td></tr>
+			<tr><td align="right">Fax:</td><td>+7 495 939 57 38</td></tr>
+			<tr><td align="right">Skype:</td><td>alexeyshaytan</td></tr>
+			<tr><td align="right">Address:</td><td>Bioengineering Department, Faculty of Biology, Moscow State University, 1 Leninskie Gory, building 73, Moscow, 119991 Russia</td></tr>
+</table>
+</td>
+</tr>
+<tr class="rowu">
+<td valign="top"><b>PUBLICATIONS</b></td>
+<td>
+<table>
+			<tr><td align="center" colspan="2"><a href="https://goo.gl/6W1QKS" style="background-color: #b7f3b7;">GoogleScholar</a> <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=shaytan+a%5Bauth%5D" style="background-color: #b7f3ee;"> Pubmed</a> <a href="https://paperpile.com/shared/0tT8U7" style="background-color: #ff97ec">Complete list of publications with PDFs</a></td></tr>
+			<tr><td align="center" colspan="2"><b>Selected publications</b></td></tr>
+			<tr><td colspan="2">Nucleosome Dynamics at Microsecond Timescale: DNA-Protein Interactions, Water-Mediated Interactions and Nucleosome Formation
+Shaytan AK, Armeev GA, Goncearenco A, Zhurkin VB, Landsman D, Panchenko AR</td></tr>
 
+</table>
+</td>
+</tr>
+<tr class="rowu">
+<td valign="top"><b>PATENTS/<br>SOFTWARE<br>REGISTRATION</b></td>
+<td>
+<table>
+			<tr><td align="right">E-mail:</td><td>shaytan_akATmail.bio.msu.ru</td></tr>
+			<tr><td align="right">Tel:</td><td>+7 495 939 23 74</td></tr>
+			<tr><td align="right">Fax:</td><td>+7 495 939 57 38</td></tr>
+			<tr><td align="right">Skype:</td><td>alexeyshaytan</td></tr>
+			<tr><td align="right">Address:</td><td>Bioengineering Department, Faculty of Biology, Moscow State University, 1 Leninskie Gory, building 73, Moscow, 119991 Russia</td></tr>
+</table>
+</td>
+</tr>
+<tr class="rowu">
+<td valign="top"><b>TALKS</b></td>
+<td>
+<table>
+			<tr><td align="right">E-mail:</td><td>shaytan_akATmail.bio.msu.ru</td></tr>
+			<tr><td align="right">Tel:</td><td>+7 495 939 23 74</td></tr>
+			<tr><td align="right">Fax:</td><td>+7 495 939 57 38</td></tr>
+			<tr><td align="right">Skype:</td><td>alexeyshaytan</td></tr>
+			<tr><td align="right">Address:</td><td>Bioengineering Department, Faculty of Biology, Moscow State University, 1 Leninskie Gory, building 73, Moscow, 119991 Russia</td></tr>
+</table>
+</td>
+</tr>
+<tr class="rowu">
+<td valign="top"><b>REFERENCES</b></td>
+<td>
+<table>
+			<tr><td align="right">E-mail:</td><td>shaytan_akATmail.bio.msu.ru</td></tr>
+			<tr><td align="right">Tel:</td><td>+7 495 939 23 74</td></tr>
+			<tr><td align="right">Fax:</td><td>+7 495 939 57 38</td></tr>
+			<tr><td align="right">Skype:</td><td>alexeyshaytan</td></tr>
+			<tr><td align="right">Address:</td><td>Bioengineering Department, Faculty of Biology, Moscow State University, 1 Leninskie Gory, building 73, Moscow, 119991 Russia</td></tr>
+</table>
+</td>
+</tr>
 </tbody>
 </table>

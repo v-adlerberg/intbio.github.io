@@ -248,7 +248,7 @@ permalink: /alexey_shaytan
 					<td align="left" valign="top"><a href="http://bio.jhu.edu/directory/carl-wu/"><b>Prof. Carl Wu</b></a><br>Member of National Academy of Sciences<br> Department of Biology, Johns Hopkins University, USA</td>
 				</tr>
 				<tr class="rowu">
-					<td align="left" valign="top"><a href="https://www.uni-ulm.de/en/nawi/instituteofadvancedenergyrelatednanomaterials/staff/"><b>Prof. Pavel G. Khalatur</b></a><br>Institue of Advanced Energy Related<br> Nanomaterials, University of Ulm, Germany</td>
+					<td align="left" valign="top"><a href="https://www.uni-ulm.de/en/nawi/instituteofadvancedenergyrelatednanomaterials/staff/"><b>Prof. Pavel G. Khalatur</b></a><br>Institute of Advanced Energy Related<br> Nanomaterials, University of Ulm, Germany</td>
 				</tr>
 			</table>
 		</td>

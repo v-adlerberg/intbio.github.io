@@ -92,7 +92,7 @@ permalink: /alexey_shaytan
 				<tr class="rowu"><td align="center">2010</td><td align="center"><b>PHD degree (physics and mathematics)</b></td><td>Moscow State University, Russia; Thesis title “Computer simulations and statistical analysis of self-organizing molecular structures based on peptides”; Advisor Prof. A.R. Khokhlov</td></tr>
 				<tr class="rowu"><td align="center">2007--2010</td><td align="center"><b>PHD student</b></td><td>Moscow State University, Faculty of Physics, Chair of Physics of Polymers and Crystals</td></tr>
 				<tr class="rowu"><td align="center">2007--2008</td><td align="center"><b></b></td><td>“Innovation Studio” Entrepreneurship Study Program at Moscow State University</td></tr>
-				<tr class="rowu"><td align="center">2007</td><td align="center"><b>Master of Science degree</b></td><td>Moscow State M.V. Lomonosov University, Faculty of Physics, Chair of Physics of Polymers and Crystals, diploma with excellence (GPA 5.0, max 5.0), Master Thesis “Study of hydration and adsorption of amino acid side chains vie MD simulations” (selected as best master thesis on chair)</td></tr>
+				<tr class="rowu"><td align="center">2007</td><td align="center"><b>Master of Science degree</b></td><td>Moscow State M.V. Lomonosov University, Faculty of Physics, Chair of Physics of Polymers and Crystals, diploma with excellence (GPA 5.0, max 5.0), Master Thesis “Study of hydration and adsorption of amino acid side chains via MD simulations”; Advisors Prof. A.R. Khokhlov, Prof. V.A. Ivanov. Selected as the best thesis at the department.</td></tr>
 				<tr class="rowu"><td align="center">2001--2007</td><td align="center"><b>Student</b></td><td>Moscow State M.V. Lomonosov University, Faculty of Physics</td></tr>
 				<tr class="rowu"><td align="center">2002--2005</td><td align="center"><b></b></td><td>Russian-German Institute of Science and Culture at MSU</td></tr>
 				<tr><td align="center">1991--2001</td><td align="center"><b>School student</b></td><td>Moscow Comprehensive School No. 1260 with advanced studies of English language. School-leaving certificate with golden medal (GPA 5.0, max 5.0)</td></tr>
@@ -165,26 +165,60 @@ permalink: /alexey_shaytan
 	<tr class="rowu">
 		<td valign="top"><b>PUBLICATIONS</b></td>
 		<td>
-			<table>
+			<table class="rowu">
+			<colgroup>
+			<col width="5%" />
+			<col width="85%" />
+			</colgroup>
 				<tr><td align="center" colspan="2"><a href="https://goo.gl/6W1QKS" style="background-color: #b7f3b7;">GoogleScholar</a> <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=shaytan+a%5Bauth%5D" style="background-color: #b7f3ee;"> Pubmed</a> <a href="https://paperpile.com/shared/0tT8U7" style="background-color: #ff97ec">Complete list of publications with PDFs</a></td></tr>
-<!--			<tr><td align="center" colspan="2"><b>Selected publications</b></td></tr>
-			<tr><td colspan="2">Nucleosome Dynamics at Microsecond Timescale: DNA-Protein Interactions, Water-Mediated Interactions and Nucleosome Formation
-Shaytan AK, Armeev GA, Goncearenco A, Zhurkin VB, Landsman D, Panchenko AR</td></tr> -->
+			<tr><td align="center" colspan="2"><b>Selected papers</b></td></tr>
+			<!-- https://docs.google.com/document/d/e/2PACX-1vRTwm9QaWFJeoQ1PuP7I9X4rAyMig-QG2KzqFKglMvmQlAXuw0mbjdQYqpUFsFhutiQw_8C549aQA-g/pub -->
+			<tr class="rowu"><td>2017</td><td align="left">Xiao H, Wang F*, Wisniewski J*, <u>Shaytan AK*</u>, Ghirlando R, FitzGerald PC, et al. Molecular basis of CENP-C association with the CENP-A nucleosome at yeast centromeres. <b>Genes Dev.</b> 2017; doi:<a href="http://dx.doi.org/10.1101/gad.304782.117">10.1101/gad.304782.117</a>; *-equal contribution</td></tr>
+
+			<tr class="rowu"><td>2017</td><td align="left"><u>Shaytan AK*</u>, Xiao H*, Armeev GA, Wu C, Landsman D, Panchenko AR. Hydroxyl-radical footprinting combined with molecular modeling identifies unique features of DNA conformation and nucleosome positioning. <b>Nucleic Acids Res.</b> 2017;45: 9229–9243. doi:<a href="http://dx.doi.org/10.1093/nar/gkx616">10.1093/nar/gkx616</a>; *-equal contribution</td></tr>
+
+			<tr class="rowu"><td>2017</td><td align="left">El Kennani S, Adrait A, <u>Shaytan AK</u>, Khochbin S, Bruley C, Panchenko AR, et al. MS_HistoneDB, a manually curated resource for proteomic analysis of human and mouse histones. <b>Epigenetics Chromatin</b>. 2017;10: 2. doi:<a href="http://dx.doi.org/10.1186/s13072-016-0109-x">10.1186/s13072-016-0109-x</a></td></tr>
+
+			<tr class="rowu"><td>2016</td><td align="left">Draizen EJ*, <u>Shaytan AK*</u>, Marino-Ramirez L, Talbert PB, Landsman D, Panchenko AR. HistoneDB 2.0: a histone database with variants--an integrated resource to explore histones and their variants. <b>Database-the Journal of Biological Databases and Curation</b>. 2016;2016. doi:<a href="http://dx.doi.org/10.1093/database/baw014">10.1093/database/baw014</a>; *-equal contribution</td></tr>
+
+			<tr class="rowu"><td>2016</td><td align="left"><u>Shaytan AK</u>, Armeev GA, Goncearenco A, Zhurkin VB, Landsman D, Panchenko AR. Coupling between Histone Conformations and DNA Geometry in Nucleosomes on a Microsecond Timescale: Atomistic Insights into Nucleosome Functions. <b>J Mol Biol</b>. 2016;428: 221–237. doi:<a href="http://dx.doi.org/10.1016/j.jmb.2015.12.004">10.1016/j.jmb.2015.12.004</a></td></tr>
+
+			<tr class="rowu"><td>2016</td><td align="left">Valieva ME, Armeev GA, Kudryashova KS, Gerasimova NS, <u>Shaytan AK</u>, Kulaeva OI, et al. Large-scale ATP-independent nucleosome unfolding by a histone chaperone. <b>Nat Struct Mol Biol</b>. 2016;23: 1111–1116. doi:<a href="http://dx.doi.org/10.1038/nsmb.3321">10.1038/nsmb.3321</a></td></tr>
+
+			<tr class="rowu"><td>2015</td><td align="left"><u>Shaytan AK</u>, Landsman D, Panchenko AR. Nucleosome adaptability conferred by sequence and structural variations in histone H2A–H2B dimers. <b>Curr Opin Struct Biol</b>. Elsevier; 2015;32C: 48–57. doi:<a href="http://dx.doi.org/10.1016/j.sbi.2015.02.004">10.1016/j.sbi.2015.02.004</a></td></tr>
+
+			<tr class="rowu"><td>2014</td><td align="left">Nishi H, <u>Shaytan A</u>, Panchenko AR. Physicochemical mechanisms of protein regulation by phosphorylation. <b>Front Genet</b>. 2014;5: 270. doi:<a href="http://dx.doi.org/10.3389/fgene.2014.00270">10.3389/fgene.2014.00270</a></td></tr>
+
+			<tr class="rowu"><td>2013</td><td align="left">Yolamanova M, Meier C, <u>Shaytan AK</u>, Vas V, Bertoncini CW, Arnold F, et al. Peptide nanofibrils boost retroviral gene transfer and provide a rapid means for concentrating viruses. <b>Nat Nanotechnol</b>. 2013;8: 130–136. doi:<a href="http://dx.doi.org/10.1038/nnano.2012.248">10.1038/nnano.2012.248</a></td></tr>
+
+			<tr class="rowu"><td>2011</td><td align="left"><u>Shaytan AK</u>, Schillinger E-K, Khalatur PG, Mena-Osteritz E, Hentschel J, Börner HG, et al. Self-assembling nanofibers from thiophene-peptide diblock oligomers: a combined experimental and computer simulations study. <b>ACS Nano</b>. ACS Publications; 2011;5: 6894–6909. doi:<a href="http://dx.doi.org/10.1021/nn2011943">10.1021/nn2011943</a></td></tr>
+
+			<tr class="rowu"><td>2010</td><td align="left"><u>Shaytan AK</u>, Ivanov VA, Shaitan KV, Khokhlov AR. Free energy profiles of amino acid side chain analogs near water-vapor interface obtained via MD simulations. <b>J Comput Chem.</b> Wiley Online Library; 2010;31: 204–216. doi:<a href="http://dx.doi.org/10.1002/jcc.21267">10.1002/jcc.21267</a></td></tr>
+
+			<tr class="rowu"><td>2009</td><td align="left"><u>haytan AK</u>, Shaitan KV, Khokhlov AR. Solvent accessible surface area of amino acid residues in globular proteins: correlation of apparent transfer free energies with experimental hydrophobicity scales. <b>Biomacromolecules</b>. 2009;10: 1224–1237. doi:<a href="http://dx.doi.org/10.1021/bm8015169">10.1021/bm8015169</a></td></tr>
+
+			<tr><td align="center" colspan="2"><b>Theses/Dissertations</b></td></tr>
+			
+			<tr class="rowu"><td>2011</td><td align="left"><u>Shaytan AK</u>. Computer simulations of self-assembling nanofibers from thiophene-peptide oligomers. PHD thesis. Universität Ulm. 2012. doi:<a href="http://dx.doi.org/10.18725/OPARU-1936">10.18725/OPARU-1936</a></td></tr>
+
+			<tr class="rowu"><td>2010</td><td align="left"><u>Shaytan AK</u>. Computer simulations and statistical analysis of self-organizing molecular structures based on peptides (in Russian). PHD thesis. Moscow State University. 2010. <a href="https://www.dropbox.com/s/pbpavd74fnuciox/thesis_final_sm.pdf?dl=0">PDF</a></td></tr>
+
+			<tr class="rowu"><td>2007</td><td align="left"><u>Shaytan AK</u>. Study of hydration and adsorption of amino acid side chains via MD simulations (in Russian). Master thesis. Moscow State University. 2007. <a href="https://www.dropbox.com/s/tyomx1l539jx2ll/diplom_final.pdf?dl=0">PDF</a></td></tr>
+
+
 			</table>
 		</td>
 	</tr>
-<!-- <tr class="rowu">
+	<tr class="rowu">
 		<td valign="top"><b>PATENTS/<br>SOFTWARE<br>REGISTRATION</b></td>
 		<td>
 			<table>
-				<tr><td align="right">E-mail:</td><td><a href="http://www1.fips.ru/fips_servl/fips_servlet?DB=RUPAT&DocNumber=2580006&TypeFile=html">http://www1.fips.ru/fips_servl/fips_servlet?DB=RUPAT&DocNumber=2580006&TypeFile=html</a></td></tr>
-				<tr><td align="right">Tel:</td><td>+7 495 939 23 74</td></tr>
-				<tr><td align="right">Fax:</td><td>+7 495 939 57 38</td></tr>
-				<tr><td align="right">Skype:</td><td>alexeyshaytan</td></tr>
-				<tr><td align="right">Address:</td><td>Bioengineering Department, Faculty of Biology, Moscow State University, 1 Leninskie Gory, building 73, Moscow, 119991 Russia</td></tr>
+				<tr><td align="right"></td><td><a href="https://patentscope.wipo.int/search/en/detail.jsf?docId=RU161773295&recNum=3&maxRec=44&office=&prevFilter=&sortOption=&queryString=p53+and+mutant&tab=NationalBiblio">&bull; (RU0002580006)</a> METHOD FOR SCREENING OF POTENTIAL ANTICANCER PREPARATIONS - FACT INHIBITORS</td></tr>
+				<tr><td align="right"></td><td><a href="http://www1.fips.ru/fips_servl/fips_servlet?DB=EVM&DocNumber=2013616706&TypeFile=html">&bull; Software suite for reconstruction of spatial structures of proteins and complex based on low-resolution electron density maps (in Russian)</a></td></tr>
+
 			</table>
 		</td>
-	</tr> -->
+	</tr>
 <!-- <tr class="rowu">
 		<td valign="top"><b>TALKS</b></td>
 			<td>

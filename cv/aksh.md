@@ -195,7 +195,7 @@ permalink: /alexey_shaytan
 
 			<tr class="rowu"><td>2010</td><td align="left"><u>Shaytan AK</u>, Ivanov VA, Shaitan KV, Khokhlov AR. Free energy profiles of amino acid side chain analogs near water-vapor interface obtained via MD simulations. <b>J Comput Chem.</b> Wiley Online Library; 2010;31: 204–216. doi:<a href="http://dx.doi.org/10.1002/jcc.21267">10.1002/jcc.21267</a></td></tr>
 
-			<tr class="rowu"><td>2009</td><td align="left"><u>haytan AK</u>, Shaitan KV, Khokhlov AR. Solvent accessible surface area of amino acid residues in globular proteins: correlation of apparent transfer free energies with experimental hydrophobicity scales. <b>Biomacromolecules</b>. 2009;10: 1224–1237. doi:<a href="http://dx.doi.org/10.1021/bm8015169">10.1021/bm8015169</a></td></tr>
+			<tr class="rowu"><td>2009</td><td align="left"><u>Shaytan AK</u>, Shaitan KV, Khokhlov AR. Solvent accessible surface area of amino acid residues in globular proteins: correlation of apparent transfer free energies with experimental hydrophobicity scales. <b>Biomacromolecules</b>. 2009;10: 1224–1237. doi:<a href="http://dx.doi.org/10.1021/bm8015169">10.1021/bm8015169</a></td></tr>
 
 			<tr><td align="center" colspan="2"><b>Theses/Dissertations</b></td></tr>
 			

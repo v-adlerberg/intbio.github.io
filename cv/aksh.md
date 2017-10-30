@@ -68,6 +68,19 @@ permalink: /alexey_shaytan
 		</td>
 	</tr>
 	<tr class="rowu">
+		<td valign="top"><b>CAREER<br>BIOGRAPHY</b></td>
+		<td>
+
+		</td>
+	</tr>
+	<tr class="rowu">
+		<td valign="top"><b>RESEARCH<br>INTERESTS</b></td>
+		<td>
+
+		</td>
+	</tr>
+
+	<tr class="rowu">
 		<td valign="top"><b>WORK<br>EXPERIENCE</b></td>
 		<td>
 			<table class="rowu">	

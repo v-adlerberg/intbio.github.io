@@ -70,7 +70,9 @@ permalink: /alexey_shaytan
 	<tr class="rowu">
 		<td valign="top"><b>CAREER<br>BIOGRAPHY</b></td>
 		<td>
-
+Dr. Alexey Shaytan recieved his diploma in condensed matter physics from Moscow State University. He then pursued PHD studies in computer simulations of synthetic and biogical macromolecules under the supervision of Prof. Alexey R. Khokhlov earning PHD degree in macromolecular science from Moscow State University in Russia and the University of Ulm in Germany. He was a research fellow at the School of Biology at Moscow State University. Started to work extensively on modeling and applying ... to chromatin ... Studitski... He then recieved a fellowship and post-doctoral training in the Computational Biology Branch of the National Center for Biotechnology Information under the guidance of Dr. Anna Panchenko.
+Worked on Histone DB with Dr. David Landsman and Dr. Carl Wu on centromeric nucleosomes and footprinting.
+Since 2017 he is a leader of Integrative Biology Group at the Dep of Bioeng, School of Biology ...
 		</td>
 	</tr>
 	<tr class="rowu">

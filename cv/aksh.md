@@ -76,6 +76,7 @@ Alexey Shaytan received his diploma in condensed matter physics from Moscow Stat
 	<tr class="rowu">
 		<td valign="top"><b>RESEARCH<br>INTERESTS</b></td>
 		<td>
+			Our broad aim is on integrating and applying modern concepts and approaches from physical and engineering sciences, molecular modeling, computer science and bioinformatics towards solving problems in biology and bioengineering. Particularly, our current focus is on studying chromatin structure at nucleosomal level via a combination of biophysical, modeling and bioinformatics approaches. We are interested in how nucleosome structure, positioning and dynamics affect interactions with other chromatin proteins and ultimately affect gene expression and control cell functioning at the epigenetic level.
 
 		</td>
 	</tr>

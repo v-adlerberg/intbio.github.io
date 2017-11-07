@@ -14,9 +14,9 @@ Our focus is on integrating and applying modern concepts and approaches from phy
 
  | Our News | 
  | -------------
- | • [Alexey Shaytan and our group are highlighted by the Journal of Molecular Biology Career Advancement Initiative](https://www.journals.elsevier.com/journal-of-molecular-biology/jmb-career-advancement-initiative/alexey-shaytan)
+ | • [Alexey Shaytan and group are highlighted by the Journal of Molecular Biology Career Advancement Initiative](https://www.journals.elsevier.com/journal-of-molecular-biology/jmb-career-advancement-initiative/alexey-shaytan) - 7 Nov'17
 
- | Recent papers | 
+ | Recent Papers | 
  | -------------
  | • [Hydroxyl-radical footprinting combined with molecular modeling identifies unique features of DNA conformation and nucleosome positioning ](https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkx616)
  | • [Coupling between Histone Conformations and DNA Geometry in Nucleosomes on a Microsecond Timescale: Atomistic Insights into Nucleosome Functions](http://www.sciencedirect.com/science/article/pii/S0022283615006956?via%3Dihub)

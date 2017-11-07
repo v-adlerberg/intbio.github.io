@@ -12,9 +12,9 @@ Integrative Biology Group is a part of [Bioengineering Department](http://www.bi
 
 Our focus is on integrating and applying modern concepts and approaches from physical and engineering sciences, molecular modeling, computer science, big data analysis and bioinformatics towards solving problems in biology and bioengineering. We aim at creating an environment where wet lab experiments, computer design and data analysis are synergistically integrated into cohesive reasearch and development pipelines.
 
- | News | 
+ | Our News | 
  | -------------
- | • [Alexey Shaytan and our group are highlighted by the Journal of Molecular Biology Career Advancment Initiative](https://www.journals.elsevier.com/journal-of-molecular-biology/jmb-career-advancement-initiative/alexey-shaytan)
+ | • [Alexey Shaytan and our group are highlighted by the Journal of Molecular Biology Career Advancement Initiative](https://www.journals.elsevier.com/journal-of-molecular-biology/jmb-career-advancement-initiative/alexey-shaytan)
 
  | Recent papers | 
  | -------------

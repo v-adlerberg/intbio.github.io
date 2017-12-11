@@ -14,7 +14,7 @@ permalink: /alexey_shaytan
 <tbody>
 	<tr class="rowu">
 		<td markdown="span">
-			<img src="/assets/photo_aksh.jpg" width="200px" />
+			<img src="{{ "/assets/photo_aksh.jpg" | relative_url }}" width="200px" />
 		</td>
 		<td>
 			<table>
@@ -35,9 +35,9 @@ permalink: /alexey_shaytan
 
 									<a target="_blank" title="find us on Facebook" href="http://www.facebook.com/1alexey3"> <img src="http://login.create.net/images/icons/user/facebook_40x40.png" width="36" height="20" style="border:1px solid white" alt="follow me on facebook"/> </a>
 
-									<a target="_blank" href="http://www.linkedin.com/in/2alexsha"> <img src="/assets/li.jpg" width="37" height="20" style="border:1px solid white" alt="View Alexey Shaytan's profile on LinkedIn"/> </a>
+									<a target="_blank" href="http://www.linkedin.com/in/2alexsha"> <img src="{{ "/assets/li.jpg" | relative_url }}" width="37" height="20" style="border:1px solid white" alt="View Alexey Shaytan's profile on LinkedIn"/> </a>
 			
-									<a target="_blank" title="find us on VK" href="https://vk.com/alexey_shaytan"> <img src="/assets/vk.png" width="36" height="20" style="border:1px solid white" alt="follow me on VK"/> </a>
+									<a target="_blank" title="find us on VK" href="https://vk.com/alexey_shaytan"> <img src="{{ "/assets/vk.png" | relative_url }}" width="36" height="20" style="border:1px solid white" alt="follow me on VK"/> </a>
 			
 								</td>
 							</tr>

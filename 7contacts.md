@@ -10,9 +10,7 @@ permalink: /contacts/
 
 [info@intbio.org](mailto:info@intbio.org)
 
-Tel: +7 495 939 23 74
-
-Fax: +7 495 939 57 38
+Tel/Fax: +7 495 939 57 38
 
 ## Mailing address
  Bioengineering Department, Faculty of Biology, Moscow State University,

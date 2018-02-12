@@ -1,6 +1,5 @@
----
-layout: geo
----
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
 <script>
 var x = document.getElementById("demo");
 function getLocation() {
@@ -15,5 +14,7 @@ function showPosition(position) {
     "<br>Longitude: " + position.coords.longitude; 
 }
 </script>
-
+<body>
 {{ content }}
+</body>
+</html>

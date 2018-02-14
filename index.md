@@ -14,6 +14,7 @@ Our focus is on integrating and applying modern concepts and approaches from phy
 
  | Our News | 
  | -------------
+ | • 14 Feb'18 - [We are delighted to join the synthetic biology community by becoming an iGEM lab](http://igem.org/Lab.cgi?id=489)
  | • 7 Nov'17 - [Alexey Shaytan and group are highlighted by the Journal of Molecular Biology Career Advancement Initiative](https://www.journals.elsevier.com/journal-of-molecular-biology/jmb-career-advancement-initiative/alexey-shaytan)
 
  | Recent Papers | 

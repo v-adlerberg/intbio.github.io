@@ -10,7 +10,7 @@ weight: 0
 # Welcome!
 Integrative Biology Group is a part of the [Bioengineering Department](http://www.bioeng.ru) at the [Faculty of Biology](http://bio.msu.ru) of [Moscow State Lomonosov University](http://msu.ru).
 
-Our focus is on integrating and applying modern concepts and approaches from physical and engineering sciences, molecular modeling, computer science, big data analysis and bioinformatics towards solving problems in biology and bioengineering. We aim at creating an environment where wet lab experiments, computer design, modeling and data analysis are synergistically integrated into cohesive reasearch and development pipelines.
+Our focus is on integrating and applying modern concepts and approaches from physical and engineering sciences, computer science, molecular modeling, big data analysis and bioinformatics towards solving problems in biology and bioengineering. We aim at creating an environment where wet lab experiments, computer design, modeling and data analysis are synergistically integrated into cohesive reasearch and development pipelines.
 
  | Our News | 
  | -------------

@@ -250,6 +250,15 @@
   }
 }
 
+.post-list-hl {
+  margin-left: 0;
+  list-style: none;
+
+  > li {
+    margin-bottom: $spacing-unit/2;
+  }
+}
+
 .post-meta {
   font-size: $small-font-size;
   color: $grey-color;

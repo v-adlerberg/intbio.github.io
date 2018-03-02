@@ -28,7 +28,7 @@ permalink: /team/
  <tr>
 <td markdown="span"> <img src="{{ "/assets/FullSizeRender.jpg" | relative_url }}" width="200px" /> </td>
 <td markdown="span"><b>Tatiana K. Gorkovets - PHD student</b> <br> Tatiana recieved her M.S. in bioengineering from Moscow State University, Russia. She is currently pursuing PHD studies at the Bioengineering Department, Faculty (School) of Biology, Moscow State University.<br>
-[Curriculum Vitae]({{ "/cv/gorkovets_cv.pdf" | relative_url }}) | E-mail: [tgorkovets@gmail.com](mailto:tgorkovets@gmail.com) 
+[Curriculum Vitae]({{ "/cv/Gorkovets_cv.pdf" | relative_url }}) | E-mail: [tgorkovets@gmail.com](mailto:tgorkovets@gmail.com) 
 </td>
 </tr>
  <tr>

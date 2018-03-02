@@ -19,8 +19,8 @@ description: > # this means to ignore newlines until "baseurl:"
   Bioengineering Department, Faculty of Biology, Moscow State University,
   1 Leninskie Gory, building 73, Moscow, 119991 Russia
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/intbio.github.io" # the subpath of your site, e.g. /blog
+url:  "https://tgorkovets.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: intbiol
 github_username:  intbio
 

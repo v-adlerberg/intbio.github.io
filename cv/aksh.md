@@ -184,7 +184,7 @@ Alexey Shaytan received his diploma in condensed matter physics from Moscow Stat
 			<col width="5%" />
 			<col width="85%" />
 			</colgroup>
-				<tr><td align="center" colspan="2"><a href="https://goo.gl/6W1QKS" style="background-color: #b7f3b7;">GoogleScholar</a> <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=shaytan+a%5Bauth%5D" style="background-color: #b7f3ee;"> Pubmed</a> <a href="https://paperpile.com/shared/ti7t8P" style="background-color: #ff97ec">Complete list of publications with PDFs</a></td></tr>
+				<tr><td align="center" colspan="2"><a href="https://goo.gl/6W1QKS" style="background-color: #b7f3b7;">GoogleScholar</a> <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=shaytan+a%5Bauth%5D" style="background-color: #b7f3ee;"> Pubmed</a> <a href="https://paperpile.com/shared/Bnsjx5" style="background-color: #ff97ec">Complete list of publications with PDFs</a></td></tr>
 			<tr><td align="center" colspan="2"><b>Selected papers</b></td></tr>
 			<!-- https://docs.google.com/document/d/e/2PACX-1vRTwm9QaWFJeoQ1PuP7I9X4rAyMig-QG2KzqFKglMvmQlAXuw0mbjdQYqpUFsFhutiQw_8C549aQA-g/pub -->
 			<tr class="rowu"><td>2017</td><td align="left">Xiao H, Wang F*, Wisniewski J*, <u>Shaytan AK*</u>, Ghirlando R, FitzGerald PC, et al. Molecular basis of CENP-C association with the CENP-A nucleosome at yeast centromeres. <b>Genes Dev.</b> 2017; doi:<a href="http://dx.doi.org/10.1101/gad.304782.117">10.1101/gad.304782.117</a>; *-equal contribution</td></tr>

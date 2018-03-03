@@ -37,5 +37,11 @@ permalink: /team/
 [Curriculum Vitae]({{ "/cv/akg.pdf" | relative_url }}) | E-mail: [gribkova.anna.2013@post.bio.msu.ru](mailto:gribkova.anna.2013@post.bio.msu.ru) 
 </td>
 </tr>
+ <tr>
+<td markdown="span"> <img src="{{ "/assets/photo_iup.jpg" | relative_url }}" width="200px" /> </td>
+<td markdown="span"><b>Iunona Pospelova - BSс student</b> <br> Iunona is currently pursuing her BSс at the Bioengineering Department, Faculty (School) of Biology, Moscow State University.<br>
+[Curriculum Vitae]({{ "/cv/CV_Iunona_Pospelova.pdf" | relative_url }}) | E-mail: [pospelova.yunona.2015@post.bio.msu.ru](mailto:pospelova.yunona.2015@post.bio.msu.ru) 
+</td>
+</tr>
 </tbody>
 </table>

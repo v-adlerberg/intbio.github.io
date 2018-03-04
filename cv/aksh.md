@@ -60,8 +60,7 @@ permalink: /alexey_shaytan
 		<td>
 			<table>
 				<tr><td align="right">E-mail:</td><td><a href="mailto:shaytan_ak@mail.bio.msu.ru">shaytan_ak@mail.bio.msu.ru</a></td></tr>
-				<tr><td align="right">Tel:</td><td>+7 495 939 23 74</td></tr>
-				<tr><td align="right">Fax:</td><td>+7 495 939 57 38</td></tr>
+				<tr><td align="right">Tel/Fax:</td><td>+7 495 939 57 38</td></tr>
 				<tr><td align="right">Skype:</td><td>alexeyshaytan</td></tr>
 				<tr><td align="right">Address:</td><td>Bioengineering Department, Faculty of Biology, Moscow State University, 1 Leninskie Gory, building 73, Moscow, 119991 Russia</td></tr>
 			</table>

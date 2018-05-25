@@ -22,7 +22,7 @@ permalink: /team/
 <tr>
 <td markdown="span"> <img src="{{ "/assets/photo_gaa.jpg" | relative_url }}" width="200px" /> </td>
 <td markdown="span"><b>Grigoriy A. Armeev - PHD student</b> <br> Grigoriy recieved his M.S. in bioengineering from Moscow State University, Russia. He is currently pursuing PHD studies at the Bioengineering Department, Faculty (School) of Biology, Moscow State University.<br>
-[Curriculum Vitae]({{ "/team/gaa_cv" | relative_url }}) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=Armeev+GA%5BAuthor%5D) | E-mail: [armeev@intbio.org](mailto:armeev@intbio.org) 
+[Curriculum Vitae]({{ "/cv/g_armeev" | relative_url }}) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=Armeev+GA%5BAuthor%5D) | E-mail: [armeev@intbio.org](mailto:armeev@intbio.org) 
 </td>
 </tr>
  <tr>

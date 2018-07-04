@@ -28,7 +28,6 @@ permalink: /team/
 
 <tr>
 <td markdown="span"> <img src="{{ "/assets/FullSizeRender.jpg" | relative_url }}" width="200px" /> </td>
-<td markdown="span"> <img src="{{ "/assets/FulBSс student<
 <td markdown="span"><b>Tatiana K. Gorkovets - PHD student</b> <br> Tatiana recieved her M.S. in bioengineering from Moscow State University, Russia. She is currently pursuing PHD studies at the Bioengineering Department, Faculty (School) of Biology, Moscow State University.<br>
 [Curriculum Vitae]({{ "/cv/Gorkovets_cv.pdf" | relative_url }}) | E-mail: [tgorkovets@gmail.com](mailto:tgorkovets@gmail.com) 
 </td>
@@ -52,8 +51,8 @@ permalink: /team/
   </td>
   </tr>
  <tr>
-<td markdown="span"> <img src="{{ "/assets/"7P96rB2M0dc[1].jpg | relative_url }}" width="200px" /> </td>
-<td markdown="span"><b>Adlerberg Vladimir - BSc student<b/> <br> Vladimir is currently pursuing his BSc and passes his summer practice at the Bioengineering  Department, Faculty (School) of Biology, Moscow State University.<br> 
+<td markdown="span"> <img src="{{ "/assets/"V.Adlerberg.jpg | relative_url }}" width="200px" /> </td>
+<td markdown="span"><b>Adlerberg Vladimir - BSc student</b> <br> Vladimir is currently pursuing his BSc and passes his summer practice at the Bioengineering  Department, Faculty (School) of Biology, Moscow State University.<br> 
  E-mail:[v-adlerberg@intbio.org](mailto:v-adlerberg@intbio.org)
   </td>
   </tr>

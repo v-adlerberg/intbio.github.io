@@ -51,7 +51,7 @@ permalink: /team/
   </td>
   </tr>
  <tr>
-<td markdown="span"> <img src="{{ "/assets/"V.Adlerberg.jpg | relative_url }}" width="200px" /> </td>
+<td markdown="span"> <img src="{{ "/assets/V.Adlerberg.jpg" | relative_url }}" width="200px" /> </td>
 <td markdown="span"><b>Adlerberg Vladimir - BSc student</b> <br> Vladimir is currently pursuing his BSc and passes his summer practice at the Bioengineering  Department, Faculty (School) of Biology, Moscow State University.<br> 
  E-mail:[v-adlerberg@intbio.org](mailto:v-adlerberg@intbio.org)
   </td>

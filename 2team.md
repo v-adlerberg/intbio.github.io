@@ -25,9 +25,10 @@ permalink: /team/
 [Curriculum Vitae]({{ "/cv/g_armeev" | relative_url }}) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=Armeev+GA%5BAuthor%5D) | E-mail: [armeev@intbio.org](mailto:armeev@intbio.org) 
 </td>
 </tr>
- <tr>
-<td markdown="span"> <img src="{{ "/assets/FulBSс student</b> <br> Anastasiia is currently pursuing her BSс at the Bioengineering Department, Faculty (School) of Biology, Moscow State University.<br>
-[Curriculum Vitae]({{ "/cv/CV_Kniazeva_Anastasiia.pdf" | relative_url }}) | E-mail: [kniazeva.anastasiia.2015@post.bio.msu.ru](mailto:kniazeva.anastasiia.2015@post.bio.msu.ru) lSizeRender.jpg" | relative_url }}" width="200px" /> </td>
+
+<tr>
+<td markdown="span"> <img src="{{ "/assets/FullSizeRender.jpg" | relative_url }}" width="200px" /> </td>
+<td markdown="span"> <img src="{{ "/assets/FulBSс student<
 <td markdown="span"><b>Tatiana K. Gorkovets - PHD student</b> <br> Tatiana recieved her M.S. in bioengineering from Moscow State University, Russia. She is currently pursuing PHD studies at the Bioengineering Department, Faculty (School) of Biology, Moscow State University.<br>
 [Curriculum Vitae]({{ "/cv/Gorkovets_cv.pdf" | relative_url }}) | E-mail: [tgorkovets@gmail.com](mailto:tgorkovets@gmail.com) 
 </td>
@@ -52,7 +53,8 @@ permalink: /team/
   </tr>
  <tr>
 <td markdown="span"> <img src="{{ "/assets/"7P96rB2M0dc[1].jpg | relative_url }}" width="200px" /> </td>
-<td markdown="span"><b>Adlerberg Vladimir - BSc student<b/> <br> Vladimir is currently pursuing his BSc and passes his summer practice at the Bioengineering  Department, Faculty (School) of Biology, Moscow State University.<br> E-mail:[v.adlerberg@intbio.org]
+<td markdown="span"><b>Adlerberg Vladimir - BSc student<b/> <br> Vladimir is currently pursuing his BSc and passes his summer practice at the Bioengineering  Department, Faculty (School) of Biology, Moscow State University.<br> 
+ E-mail:[v-adlerberg@intbio.org](mailto:v-adlerberg@intbio.org)
   </td>
   </tr>
 </tbody>
